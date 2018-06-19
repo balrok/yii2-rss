@@ -73,7 +73,7 @@ class RssView extends BaseListView
     /**
      * @inheritdoc
      *
-     * @return string|Feed
+     * @return string
      */
     public function run()
     {
@@ -81,7 +81,7 @@ class RssView extends BaseListView
         if ($this->dataProvider->getCount() > 0) {
             $this->renderItems();
         }
-        return $this->feed;
+        return $this->feed->saveXML();
     }
 
     /**
