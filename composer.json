@@ -32,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zelenin\\yii\\extensions\\Rss\\": ""
+            "balrok\\yii\\extensions\\Rss\\": ""
         }
     }
 }
