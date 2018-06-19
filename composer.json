@@ -1,5 +1,5 @@
 {
-    "name": "zelenin/yii2-rss",
+    "name": "balrok/yii2-rss",
     "description": "Yii2 RSS extension adds RSS-feed to your site",
     "type": "yii2-extension",
     "keywords": [
@@ -7,7 +7,7 @@
         "rss",
         "feed"
     ],
-    "homepage": "https://github.com/zelenin/yii2-rss",
+    "homepage": "https://github.com/balrok/yii2-rss",
     "license": "MIT",
     "authors": [
         {
@@ -15,11 +15,16 @@
             "email": "aleksandr@zelenin.me",
             "homepage": "http://zelenin.me",
             "role": "Developer"
+        },
+        {
+            "name": "Carl Mai",
+            "email": "carl.schoenbach@gmail.com",
+            "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/zelenin/yii2-rss/issues",
-        "source": "https://github.com/zelenin/yii2-rss"
+        "issues": "https://github.com/balrok/yii2-rss/issues",
+        "source": "https://github.com/balrok/yii2-rss"
     },
     "require": {
         "yiisoft/yii2": "~2",

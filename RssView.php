@@ -1,6 +1,6 @@
 <?php
 
-namespace Zelenin\yii\extensions\Rss;
+namespace balrok\yii\extensions\Rss;
 
 use Yii;
 use yii\base\InvalidConfigException;
