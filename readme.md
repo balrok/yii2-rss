@@ -19,7 +19,7 @@ php composer.phar require balrok/yii2-rss "~0.1"
 or add
 
 ```
-"zelenin/yii2-rss": "~0.1"
+"balrok/yii2-rss": "~0.1"
 ```
 
 to the require section of your ```composer.json```
